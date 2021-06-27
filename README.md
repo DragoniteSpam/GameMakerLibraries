@@ -14,13 +14,12 @@
 
 &nbsp;
 
-[Fix GML being recognised as Yacc on GitHub](https://www.reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting/)
-
-[GMLScripts.com](https://www.gmlscripts.com/)
-
-[GM Core (Buncha libraries rolled into one)](https://github.com/gm-core)
-
-[Gleb Tsereteli's GameMaker 2.3 Resources](https://docs.google.com/document/d/1wUm8FZPm8AKLZgC-P76TPJAMXs0EN2s5mJGvvUFwycw)
+| General | Author |
+|- |- |
+| [Fix GML being recognised as Yacc on GitHub](https://www.reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting/) | /u/deeptronos |
+| [GMLScripts.com](https://www.gmlscripts.com/) | [xot](https://twitter.com/xotmatrix) |
+| [GM Core (Buncha libraries rolled into one)](https://github.com/gm-core) | Michael Barret |
+| [Gleb Tsereteli's GameMaker 2.3 Resources](https://docs.google.com/document/d/1wUm8FZPm8AKLZgC-P76TPJAMXs0EN2s5mJGvvUFwycw) | Gleb Tsereteli |
 
 [GMS2.3 Destructors](https://github.com/DatZach/Destructors)
 
