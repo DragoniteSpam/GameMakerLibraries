@@ -10,6 +10,12 @@
 
 **If you'd like to add a link to this list, please make a pull request.**
 
+## Table of Contents
+ * [General](#general)
+ * [Compendiums](#compendiums)
+ * [Computer Science](#computer-sciencey-stuff)
+ * [Debugging](#debugging)
+
 &nbsp;
 
 &nbsp;
@@ -24,7 +30,7 @@ General GameMaker stuff.
 
 ### Compendiums
 
-You know what's better than a list of GameMaker stuff? A list  of lists of GameMaker stuff.
+You know what's better than a list of GameMaker stuff? A list of lists of GameMaker stuff.
 
 | Compendiums | Author | Summary |
 | - | - | - |
