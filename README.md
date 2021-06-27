@@ -10,15 +10,17 @@
 
 **If you'd like to add a link to this list, please make a pull request.**
 
+&nbsp;
+
+&nbsp;
+
 ## Table of Contents
  * [General](#general)
  * [Compendiums](#compendiums)
  * [Computer Science](#computer-sciencey-stuff)
  * [Debugging](#debugging)
-
-&nbsp;
-
-&nbsp;
+ * [UI/UX](#uiux)
+ * [3D](#the-forbidden-arts)
 
 ### General
 
