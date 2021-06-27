@@ -14,41 +14,47 @@
 
 &nbsp;
 
+General GameMaker stuff.
+
 | General | Author |
 | - | - |
 
 | [Fix GML being recognised as Yacc on GitHub](https://www.reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting/) | /u/deeptronos |
 
+You know what's better than a list of GameMaker stuff? A list  of lists of GameMaker stuff.
+
 | Compendiums | Author |
 | - | - |
-
 | [GMLScripts.com](https://www.gmlscripts.com/) | [@xot](https://twitter.com/xotmatrix) |
-
 | [GM Core (Buncha libraries rolled into one)](https://github.com/gm-core) | Michael Barret |
-
 | [Gleb Tsereteli's GameMaker 2.3 Resources](https://docs.google.com/document/d/1wUm8FZPm8AKLZgC-P76TPJAMXs0EN2s5mJGvvUFwycw) | Gleb Tsereteli |
-
 | [Community Wiki](https://gmcw.dev/) | (multiple) |
+
+For those of us who are fun at parties.
 
 | Computer Science | Author |
 | - | - |
-
 | [GMS2.3 Destructors](https://github.com/DatZach/Destructors) | [@datzach](https://twitter.com/datzach) |
+
+For when things go wrong.
 
 | Debugging | Author |
 | - | - |
-
 | [RenderDoc for GameMaker](https://github.com/Blokatt/renderdoc-gms2-kit) | [@odditica](https://twitter.com/odditica) |
+
+If you've ever spent days and days tearing your hair out trying to figure out why your game isn't working, look here.
 
 | User Interface and User Experience | Author |
 | - | - |
-
 | [Emu UI](https://github.com/DragoniteSpam/Emu) | [@dragonitespam](https://twitter.com/DragoniteSpam) |
+
+The forbidden arts.
 
 | Threed | Author |
 | - | - |
-
 | [Bronze Box -  3d world models from a 2d grid](https://github.com/cicadian/Bronze-Box) | [cicadian](https://github.com/cicadian) |
+
+Going to seek Juju's approval before I go too crazy with the rest of this.
 
 [GMS2's Camera System](https://maddestudiosgames.com/gms2-meet-the-camera-system/)
 
