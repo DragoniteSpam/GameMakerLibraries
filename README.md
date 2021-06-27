@@ -59,7 +59,7 @@ You'd think I'd have a better description of this.
 
 ### The forbidden arts
 
-![](https://i.imgur.com/zDYF2Dr.png | height = 160)
+<img src="https://i.imgur.com/zDYF2Dr.png" height="240"/>
 
 | Threed | Author | Summary |
 | - | - | - |
