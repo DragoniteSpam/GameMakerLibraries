@@ -15,21 +15,40 @@
 &nbsp;
 
 | General | Author |
-|- |- |
+| - | - |
+
 | [Fix GML being recognised as Yacc on GitHub](https://www.reddit.com/r/gamemaker/comments/n5m35l/a_simple_fix_for_github_incorrectly_detecting/) | /u/deeptronos |
-| [GMLScripts.com](https://www.gmlscripts.com/) | [xot](https://twitter.com/xotmatrix) |
+
+| Compendiums | Author |
+| - | - |
+
+| [GMLScripts.com](https://www.gmlscripts.com/) | [@xot](https://twitter.com/xotmatrix) |
+
 | [GM Core (Buncha libraries rolled into one)](https://github.com/gm-core) | Michael Barret |
+
 | [Gleb Tsereteli's GameMaker 2.3 Resources](https://docs.google.com/document/d/1wUm8FZPm8AKLZgC-P76TPJAMXs0EN2s5mJGvvUFwycw) | Gleb Tsereteli |
 
-[GMS2.3 Destructors](https://github.com/DatZach/Destructors)
+| [Community Wiki](https://gmcw.dev/) | (multiple) |
 
-[Community Wiki](https://gmcw.dev/)
+| Computer Science | Author |
+| - | - |
 
-[RenderDoc for GameMaker](https://github.com/Blokatt/renderdoc-gms2-kit)
+| [GMS2.3 Destructors](https://github.com/DatZach/Destructors) | [@datzach](https://twitter.com/datzach) |
 
-[Emu UI](https://github.com/DragoniteSpam/Emu)
+| Debugging | Author |
+| - | - |
 
-[Bronze Box -  3d world models from a 2d grid](https://github.com/cicadian/Bronze-Box)
+| [RenderDoc for GameMaker](https://github.com/Blokatt/renderdoc-gms2-kit) | [@odditica](https://twitter.com/odditica) |
+
+| User Interface and User Experience | Author |
+| - | - |
+
+| [Emu UI](https://github.com/DragoniteSpam/Emu) | [@dragonitespam](https://twitter.com/DragoniteSpam) |
+
+| Threed | Author |
+| - | - |
+
+| [Bronze Box -  3d world models from a 2d grid](https://github.com/cicadian/Bronze-Box) | [cicadian](https://github.com/cicadian) |
 
 [GMS2's Camera System](https://maddestudiosgames.com/gms2-meet-the-camera-system/)
 
